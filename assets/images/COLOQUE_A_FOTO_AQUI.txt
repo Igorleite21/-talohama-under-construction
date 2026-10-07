@@ -1,0 +1,21 @@
+PASTA: assets/images
+
+Coloque aqui a foto profissional de Talohama Marques com o nome de arquivo:
+
+  talohama.jpg
+
+Recomendações:
+- Formato: JPG ou PNG
+- Proporção: quadrada (1:1), ex.: 800x800px ou maior
+- Peso: idealmente abaixo de 500 KB (otimizada para web)
+
+Enquanto o arquivo "talohama.jpg" não existir nesta pasta, a página exibe
+automaticamente um monograma "TM" no lugar da foto (fallback elegante já
+implementado em styles.css / script.js).
+
+Opcional: se quiser uma imagem específica para compartilhamento em redes
+sociais (Open Graph), adicione também um arquivo "talohama-og.jpg"
+(recomendado 1200x630px) e atualize a tag <meta property="og:image"> no
+index.html.
+
+Este arquivo é apenas um lembrete e pode ser apagado a qualquer momento.
